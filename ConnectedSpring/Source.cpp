@@ -3,6 +3,7 @@
 #include <cmath>
 #include <string>
 #include <vector>
+#include <algorithm>
 #include <GL/freeglut.h>
 #ifdef _MSC_VER
 #include <Windows.h>
